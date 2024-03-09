@@ -9,5 +9,6 @@ Instrucciones de Uso
     Ejecute el programa.
     Siga las indicaciones para ingresar diez números cuando se le solicite.
     El programa imprimirá los primeros y últimos cinco números de la lista de manera intercalada.
-✔️Tecnología Utilizada
+
+# ✔️Tecnología Utilizada
 - Java 
